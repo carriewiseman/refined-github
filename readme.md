@@ -1,6 +1,6 @@
 # <img src="source/icon.png" width="45" align="left"> Refined GitHub
 
-> Browser extension that simplifies the GitHub interface and adds useful features
+> Browser extension that simplifies the GitHub interface and provides .Carrie adds useful features
 
 We use GitHub a lot and notice many annoyances we'd like to fix. So here be dragons.
 
